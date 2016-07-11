@@ -1,0 +1,11 @@
+'.text.html':
+  'Snippet grid-io':
+    'prefix': 'ion-grid'
+    'body': '<ion-grid>\n\t<ion-row>\n\t\t$3\n\t</ion-row>\n</ion-grid>'
+  'Snippet row-io':
+    'prefix': 'ion-row'
+    'body': '<ion-row>\n\t$3\n</ion-row>'
+  'Snippet col-io':
+    'prefix': 'ion-col'
+    'body': '<ion-col width-$1>$2</ion-col>'
+
